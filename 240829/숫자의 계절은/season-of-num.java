@@ -11,7 +11,7 @@ public class Main {
         else if (a >= 6 && a <= 8) {
             System.out.println("Summer");
         }
-        if (a >= 9 && a <= 11) {
+        else if (a >= 9 && a <= 11) {
             System.out.println("Fall");
         }
         else {
